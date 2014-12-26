@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scoreinfo>
+	<status>
+		<start_date>2012/05/10</start_date>
+		<start_time>14:00:00 IST</start_time>
+		<end_time>19:40:00 IST</end_time>
+		<current_status>live</current_status>
+		<match_type>T20</match_type>
+	</status>
+	
+	<livescore>	
+        
+	    <batting_team_info>
+            <name>SL</name>
+            <score>39</score>
+            <overs>4.4</overs>
+            <wickets>1</wickets>
+          
+            <players_info>
+             
+                <striker>
+                 <name>TM Dilshan</name>
+                 <score>24</score>
+                 <balls>14</balls>
+              </striker>
+              
+              <non_striker>
+                 <name>KC Sangakkara</name>
+                 <score>0</score>
+                 <balls>0</balls>              
+              </non_striker>
+              
+            </players_info>
+            
+           </batting_team_info>
+           
+         <bowling_team_info>
+          <name>Aus</name>
+          <score>321</score>
+          <wickets>6</wickets>
+          <overs>20</overs>  
+         
+          <bowlers_info>
+            <bowler>
+               <name>B Lee</name>
+                ........
+            </bowler>
+           
+            <bowler>
+               <name>BW Hilfenhaus</name>
+                ........
+            </bowler>
+          
+          </bowlers_info>             
+        
+          </bowling_team_info>
+          
+         
+         <comment>SL requires 283 runs from 45.2 ov</comment>
+      
+         <recent_overs>	31|1**4**1|*42W</recent_overs>
+        
+         <partner_ship>
+              <score>30</score>
+              <overs>5</overs>
+        </partner_ship>
+      
+         <last_wicket>DPMD Jayawardene c Wade b Lee 14(14)</last_wicket>
+       
+         </livescore>
+
+	    </scoreinfo>
